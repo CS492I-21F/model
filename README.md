@@ -27,5 +27,10 @@
     * NOTE: The input to this model is sentences classified as non-standard language by the `multi_standard` model
 
 ### Pre-trained Models
+> Each `.pt` file is a pre-trained model of a model with the same name
 
-* `single.pt`: 
+* `single.pt`: [link](https://drive.google.com/file/d/1-TGjLEVx6bgRhAaKGMI9ajQvZjBAWccm/view?usp=sharing)
+
+* `multi_standard.pt`: [link](https://drive.google.com/file/d/1-64VFX8QTXRKVSOCJlZ2HaUVPmwF8ZQ7/view?usp=sharing)
+
+* `multi_dialects.pt`: [link](https://drive.google.com/file/d/1-IxZ-oESM6t70Y-wwF_uYsBSjbga_6_F/view?usp=sharing)
