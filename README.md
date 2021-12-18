@@ -30,10 +30,20 @@
   * NOTE: The input to this model is sentences classified as non-standard language by the `multi_standard` model
 
 ### Pre-trained Models
-> Each `.pt` file is a pre-trained model of a model with the same name
+> Each `.pt` or `.ckpt` file is a pre-trained model of a model with the same name
 
 * `single.pt`: [link](https://drive.google.com/file/d/1-TGjLEVx6bgRhAaKGMI9ajQvZjBAWccm/view?usp=sharing)
 
 * `multi_standard.pt`: [link](https://drive.google.com/file/d/1-64VFX8QTXRKVSOCJlZ2HaUVPmwF8ZQ7/view?usp=sharing)
 
 * `multi_dialects.pt`: [link](https://drive.google.com/file/d/1-IxZ-oESM6t70Y-wwF_uYsBSjbga_6_F/view?usp=sharing)
+
+* `Chungcheong_transformer_model_best.ckpt` : [link](https://drive.google.com/file/d/1-AOe_VfNeRMlS5L492GJsvW7HkUYq3Q1/view?usp=sharing)
+
+* `Gangwon_transformer_model_best.ckpt` : [link](https://drive.google.com/file/d/1-BEK697OxTa8uQlTRbywpsEM1IMbAVGp/view?usp=sharing)
+
+* `Gyeongsang_transformer_model_best.ckpt` : [link](https://drive.google.com/file/d/1-G7eR1WZcccWHwZ5u9rxxNg0hef1QwPg/view?usp=sharing)
+
+* `Jeju_transformer_model_best.ckpt` : [link](https://drive.google.com/file/d/1-GDdmMlaqx-kWSha66moNheI0AWvhnTu/view?usp=sharing)
+
+* `Jeolla_transformer_model_best.ckpt` : [link](https://drive.google.com/file/d/1Y0vzYdp56j1BA1G6lA1-7K_-pTwFstLe/view?usp=sharing)
