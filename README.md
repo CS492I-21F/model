@@ -1,6 +1,9 @@
 # model
 > Training codes and pre-trained models used in the project
 
+[![GitHub Super-Linter](https://github.com/CS492I-21F/model/workflows/Lint/badge.svg)](https://github.com/marketplace/actions/super-linter)
+
+
 ## Project Information
 * Topic: Korean local dialects to standard language machine translation model
     * Final Presentation: [pdf](https://drive.google.com/file/d/1bFfAXERQBlN82GLXLIlQhL07AeB0M3uZ/view?usp=sharing)
