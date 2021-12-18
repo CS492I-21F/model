@@ -6,7 +6,7 @@
 
 ## Project Information
 * Topic: Korean local dialects to standard language machine translation model
-    * Final Presentation: [pdf](https://drive.google.com/file/d/1bFfAXERQBlN82GLXLIlQhL07AeB0M3uZ/view?usp=sharing)
+    * Final Presentation: [PDF](https://drive.google.com/file/d/1bFfAXERQBlN82GLXLIlQhL07AeB0M3uZ/view?usp=sharing)
     * Final Report: TBA
 
 * Team 43
