@@ -34,10 +34,9 @@
 * `translation_transformer.ipynb`: translates regional dialects into standard language
 
 ## Pre-trained Models
+> Each `.pt` or `.ckpt` file is a pre-trained model of a model with the same name
 
 ### Classification
-
-> Each `.pt` or `.ckpt` file is a pre-trained model of a model with the same name
 
 * `single.pt`: [link](https://drive.google.com/file/d/1-TGjLEVx6bgRhAaKGMI9ajQvZjBAWccm/view?usp=sharing)
 
